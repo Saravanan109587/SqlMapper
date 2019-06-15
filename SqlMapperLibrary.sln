@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlMapperLibrary", "SqlMapperLibrary\SqlMapperLibrary.csproj", "{45629372-5099-4DB3-887C-402717CFF29A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.SQLMapper", "Core.SQLMapper\Core.SQLMapper.csproj", "{0D670606-CFD0-453F-8E87-64B94AB7BF5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMapper", "C:\Code\FPAPI\uMapper\UMapper.csproj", "{C1922268-6461-4763-B15B-E934579C3CB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{45629372-5099-4DB3-887C-402717CFF29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45629372-5099-4DB3-887C-402717CFF29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45629372-5099-4DB3-887C-402717CFF29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D670606-CFD0-453F-8E87-64B94AB7BF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D670606-CFD0-453F-8E87-64B94AB7BF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D670606-CFD0-453F-8E87-64B94AB7BF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D670606-CFD0-453F-8E87-64B94AB7BF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1922268-6461-4763-B15B-E934579C3CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1922268-6461-4763-B15B-E934579C3CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1922268-6461-4763-B15B-E934579C3CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1922268-6461-4763-B15B-E934579C3CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
